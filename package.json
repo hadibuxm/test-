@@ -1,0 +1,10 @@
+{
+  "name": "test-xy",
+  "version": "1.0.0",
+  "description": "Hello World feature entry point",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  }
+}
